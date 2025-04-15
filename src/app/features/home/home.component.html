@@ -1,0 +1,33 @@
+<div class="header-container">
+    <div class="image-container">
+        <img src="img/valakuss_header.png" alt="Header Image" />
+    </div>
+    <div class="dates-container">
+        <ul>
+            <li>30-08-2024</li>
+            <li>09-03-2023</li>
+            <li>02-03-2023</li>
+            <li>28-01-2020</li>
+            <li>31-10-2019</li>
+            <li>31-10-2019</li>
+            <li>31-10-2019</li>
+            <li>11-07-2019</li>
+            <li>11-07-2019</li>
+            <li>03-10-2016</li>
+            <li>03-10-2016</li>
+            <li>03-10-2016</li>
+        </ul>
+    </div>
+</div>
+
+<div class="clown-container">
+    <span>[CLOWNS]</span>
+</div>
+
+<section class="clown-grid">
+    <div class="clown-card" *ngFor="let clown of clowns" [routerLink]="['/detail', clown.id]">
+        <img [src]="clown.img" alt="{{ clown.name }}" />
+        <h3 >{{ clown.name }}, {{clown.age}}</h3>
+        <h3 style="color: #AB2823;">{{ clown.price | currency:'':'symbol':'1.0-0' }}</h3>
+    </div>
+</section>

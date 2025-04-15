@@ -1,0 +1,12 @@
+.main-container {
+    padding: 2rem;
+}
+
+.detail-background {
+    background-image: url('/img/detail_bg.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: calc(100vh - 114px);
+    min-width: 100vh;
+}

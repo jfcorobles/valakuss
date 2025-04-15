@@ -1,0 +1,101 @@
+[
+    {
+        "id": "abe60604-4bd9-4a75-8071-43eafc5d0355",
+        "name": "DUFFY",
+        "age": 37,
+        "price": 35000,
+        "weight": 87,
+        "height": 174,
+        "msg": "No dejarlo cerca de niños",
+        "img": "clowns/duffy.png",
+        "stars": 3
+    },
+    {
+        "id": "a8dc3dcb-27f2-455d-b6ee-2cae5e6db5dc",
+        "name": "DINDON",
+        "age": 34,
+        "price": 35000,
+        "weight": 75,
+        "height": 179,
+        "msg": "Evitar que te mire mucho",
+        "img": "clowns/dindon.png",
+        "stars": 2
+    },
+    {
+        "id": "78856303-41e2-4a9d-ad58-c73dd0a975f1",
+        "name": "KEVIN",
+        "age": 38,
+        "price": 35000,
+        "weight": 130,
+        "height": 165,
+        "msg": "Mantener las puertas cerradas",
+        "img": "clowns/no_img.png",
+        "stars": 4
+    },
+    {
+        "id": "2e79725c-38c6-4354-bd62-c6489aabeb1a",
+        "name": "MINI MINI",
+        "age": 43,
+        "price": 43000,
+        "weight": 125,
+        "height": 245,
+        "msg": "No lo alimentes",
+        "img": "clowns/minimini.png",
+        "stars": 1
+    },
+    {
+        "id": "30cf0d76-b961-4cbc-8dfb-94706abb080d",
+        "name": "LULI",
+        "age": 29,
+        "price": 20000,
+        "weight": 67,
+        "height": 168,
+        "msg": "No la toques",
+        "img": "clowns/luli.png",
+        "stars": 2
+    },
+    {
+        "id": "c83c5405-08ca-46e3-ab0d-ee82135cba5b",
+        "name": "GOMORY",
+        "age": 32,
+        "price": 15000,
+        "weight": 83,
+        "height": 183,
+        "msg": "Misterioso y reservado",
+        "img": "clowns/no_img.png",
+        "stars": 3
+    },
+    {
+        "id": "e5df3d7b-306d-407c-af15-44111c8cd1d4",
+        "name": "TIM CARRUSEL",
+        "age": 67,
+        "price": 40000,
+        "weight": 83,
+        "height": 178,
+        "msg": "Antiguo y experimentado",
+        "img": "clowns/no_img.png",
+        "stars": 2
+    },
+    {
+        "id": "504ebf09-1dd9-4497-a045-4e9af46d657c",
+        "name": "AZAZEL",
+        "age": 41,
+        "price": 38000,
+        "weight": 87,
+        "height": 188,
+        "msg": "No le gusta la luz",
+        "img": "clowns/azazel.png",
+        "stars": 1
+    },
+    {
+        "id": "d4529089-20a0-45a9-9499-e119e633fc02",
+        "name": "GOLIATH",
+        "age": 37,
+        "price": 27000,
+        "weight": 90,
+        "height": 189,
+        "msg": "Imponente y fuerte",
+        "img": "clowns/goliath.png",
+        "stars": 4
+    }
+]
