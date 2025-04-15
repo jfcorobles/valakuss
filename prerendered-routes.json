@@ -1,0 +1,7 @@
+{
+  "routes": {
+    "/valakuss": {},
+    "/valakuss/about": {},
+    "/valakuss/rules": {}
+  }
+}
