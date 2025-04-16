@@ -1,3 +1,5 @@
-<main class="main-container" [ngClass]="{ 'detail-background': isDetailRoute }">
+<main class="main-container" 
+[ngClass]="{ 'detail-background': isDetailRoute }" 
+[ngStyle]="{ 'background-image': isDetailRoute ? 'url(./img/detail_bg.png)':'none' }">
     <router-outlet></router-outlet>
 </main>

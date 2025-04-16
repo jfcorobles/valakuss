@@ -7,7 +7,7 @@
         "weight": 87,
         "height": 174,
         "msg": "No dejarlo cerca de niños",
-        "img": "clowns/duffy.png",
+        "img": "./clowns/duffy.png",
         "stars": 3
     },
     {
@@ -18,7 +18,7 @@
         "weight": 75,
         "height": 179,
         "msg": "Evitar que te mire mucho",
-        "img": "clowns/dindon.png",
+        "img": "./clowns/dindon.png",
         "stars": 2
     },
     {
@@ -29,7 +29,7 @@
         "weight": 130,
         "height": 165,
         "msg": "Mantener las puertas cerradas",
-        "img": "clowns/no_img.png",
+        "img": "./clowns/no_img.png",
         "stars": 4
     },
     {
@@ -40,7 +40,7 @@
         "weight": 125,
         "height": 245,
         "msg": "No lo alimentes",
-        "img": "clowns/minimini.png",
+        "img": "./clowns/minimini.png",
         "stars": 1
     },
     {
@@ -51,7 +51,7 @@
         "weight": 67,
         "height": 168,
         "msg": "No la toques",
-        "img": "clowns/luli.png",
+        "img": "./clowns/luli.png",
         "stars": 2
     },
     {
@@ -62,7 +62,7 @@
         "weight": 83,
         "height": 183,
         "msg": "Misterioso y reservado",
-        "img": "clowns/no_img.png",
+        "img": "./clowns/no_img.png",
         "stars": 3
     },
     {
@@ -73,7 +73,7 @@
         "weight": 83,
         "height": 178,
         "msg": "Antiguo y experimentado",
-        "img": "clowns/no_img.png",
+        "img": "./clowns/no_img.png",
         "stars": 2
     },
     {
@@ -84,7 +84,7 @@
         "weight": 87,
         "height": 188,
         "msg": "No le gusta la luz",
-        "img": "clowns/azazel.png",
+        "img": "./clowns/azazel.png",
         "stars": 1
     },
     {
@@ -95,7 +95,7 @@
         "weight": 90,
         "height": 189,
         "msg": "Imponente y fuerte",
-        "img": "clowns/goliath.png",
+        "img": "./clowns/goliath.png",
         "stars": 4
     }
 ]

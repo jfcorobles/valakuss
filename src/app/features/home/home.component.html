@@ -1,6 +1,6 @@
 <div class="header-container">
     <div class="image-container">
-        <img src="img/valakuss_header.png" alt="Header Image" />
+        <img src="./img/valakuss_header.png" alt="Header Image" />
     </div>
     <div class="dates-container">
         <ul>
@@ -25,7 +25,7 @@
 </div>
 
 <section class="clown-grid">
-    <div class="clown-card" *ngFor="let clown of clowns" [routerLink]="['/detail', clown.id]">
+    <div class="clown-card" *ngFor="let clown of clowns" [routerLink]="['./detail', clown.id]">
         <img [src]="clown.img" alt="{{ clown.name }}" />
         <h3 >{{ clown.name }}, {{clown.age}}</h3>
         <h3 style="color: #AB2823;">{{ clown.price | currency:'':'symbol':'1.0-0' }}</h3>
