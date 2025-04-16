@@ -1,59 +1,43 @@
-# Valakuss
+# 🃏 Proyecto Valakuss - Clowns from the Deep Web
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.6.
+Este es un proyecto ficticio inspirado en el **lore** de los videos de **Fede Vigevani**, específicamente en la serie donde accede a una página secreta llamada **Valakuss**, desde la cual se pueden comprar payasos misteriosos provenientes de la deep web.
 
-## Development server
+## 🎯 Objetivo
 
-To start a local development server, run:
+Recrear una versión funcional e inmersiva de la página **Valakuss**, simulando un catálogo de payasos con sus respectivas fichas, imágenes, precios, mensajes ocultos y un sistema básico de compra y exploración. Todo respetando el estilo visual y la atmósfera inquietante del universo que aparece en los videos.
 
-```bash
-ng serve
-```
+## 🚀 Tecnologías utilizadas
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+- Angular 19
+- SCSS para estilos
+- Angular Router
+- JSON como base de datos de payasos
+- Angular Material (opcional para componentes)
+- Responsive design con media queries
 
-## Code scaffolding
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+## 🔮 Funcionalidades
 
-```bash
-ng generate component component-name
-```
+- Visualización de payasos y sus características (nombre, edad, peso, estatura, estrellas, precio, mensaje).
+- Página de detalle para cada clown con información extendida.
+- Páginas de **About** y **Rules** inspiradas en el mundo de Valakuss.
+- Adaptación completa a dispositivos móviles.
+- Sistema visual de alerta y advertencia.
+- Diseño oscuro con toques misteriosos en sintonía con el universo.
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+## 📜 Páginas destacadas
 
-```bash
-ng generate --help
-```
+- `/` - Página de inicio con el catálogo de payasos.
+- `/detail/:id` - Vista detallada de un clown.
+- `/about` - Sección que explica el propósito y misterio detrás de Valakuss.
+- `/rules` - Reglas y advertencias antes de adquirir un payaso.
 
-## Building
+## ⚠️ Advertencia
 
-To build the project run:
+> Este proyecto no representa una tienda real ni promueve actividades relacionadas con la deep web. Es una simulación con fines creativos y educativos basada en contenido de entretenimiento ficticio.
 
-```bash
-ng build
-```
+## 🙌 Créditos
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+Este proyecto es un homenaje creativo al universo construido por los videos de Fede Vigevani. Todo el contenido es ficticio y con fines educativos.
 
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+---
